@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>primary_interface.qml</file>
+        <file>main.qml</file>
+        <file>primary.qml</file>
+        <file>Welcome.qml</file>
+        <file>learning1.qml</file>
+        <file>stage_five.qml</file>
+        <file>stage_four.qml</file>
+        <file>stage_one.qml</file>
+        <file>stage_six.qml</file>
+        <file>stage_three.qml</file>
+        <file>stage_two.qml</file>
+        <file>word_show_interface.qml</file>
+        <file>history.qml</file>
+        <file>collect.qml</file>
+        <file>person.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/collect.png</file>
+        <file>image/history.png</file>
+        <file>image/leaning.png</file>
+        <file>image/person.png</file>
+        <file>image/review.png</file>
+        <file>image/welcome.jpg</file>
+        <file>image/back.png</file>
+        <file>image/star.png</file>
+        <file>image/disstar.png</file>
+        <file>image/delete.png</file>
+        <file>image/background.jpg</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>CET4.db</file>
+    </qresource>
+</RCC>
