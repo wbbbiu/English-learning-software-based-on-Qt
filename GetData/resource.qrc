@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/json">
+        <file>CET4_2.json</file>
+        <file>CET4_3.json</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>CET4.db</file>
+    </qresource>
+</RCC>
