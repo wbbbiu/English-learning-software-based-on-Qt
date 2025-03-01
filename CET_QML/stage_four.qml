@@ -30,7 +30,7 @@ Item {
                 color: "#00000000"
                 radius: 5
             }
-            onEditingFinished: {
+            onAccepted: {
                 if (spelling.enabled) { // 确保只处理一次
                            spelling.enabled = false
                            console.log(info.word)
