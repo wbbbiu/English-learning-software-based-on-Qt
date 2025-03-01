@@ -27,7 +27,6 @@
 # 项目结果展示
 ## 学习功能
 学习功能的话第一阶段的掌握会代表这个单词你认为自己认识，就不在展开学习，选择学习的话就是进行接下来几个阶段的学习
-<iframe src="//player.bilibili.com/player.html?bvid=BV1EcXQYUEM9&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1EcXQYUEM9&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="650" height="477"> </iframe>
 对于复习功能的话也是类似不过会先判断你当前对这个单词的掌握在不同程度复习。
 感谢[kajweb/dict](https://github.com/kajweb/dict)提供的数据支持。
