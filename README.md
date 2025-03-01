@@ -27,6 +27,7 @@
 # 项目结果展示
 ## 学习功能
 学习功能的话第一阶段的掌握会代表这个单词你认为自己认识，就不在展开学习，选择学习的话就是进行接下来几个阶段的学习
-![English Learning Software Demo](https://github.com/wbbbiu/English-learning-software-based-on-Qt/raw/main/show.mp4)
+![QQ202531-11651](https://github.com/user-attachments/assets/c8f2c3cd-c650-4462-bbaa-3d76c5a84d26)
+
 对于复习功能的话也是类似不过会先判断你当前对这个单词的掌握在不同程度复习。
 感谢[kajweb/dict](https://github.com/kajweb/dict)提供的数据支持。
