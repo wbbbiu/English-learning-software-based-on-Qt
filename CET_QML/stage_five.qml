@@ -30,7 +30,7 @@ Item {
                 radius: 5
             }
 
-            onEditingFinished: {
+             onAccepted: {
                 console.log(info.word)
                 if(spelling.enabled){
                     spelling.enabled=false
