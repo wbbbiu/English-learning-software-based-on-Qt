@@ -56,7 +56,7 @@ Item{
             running: true
             repeat: false
             onTriggered: {
-                contentLoder.source="qrc:/collect.qml"
+                contentLoder.source="qrc:/primary.qml"
             }
         }
 }
